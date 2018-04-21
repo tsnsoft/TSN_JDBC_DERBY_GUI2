@@ -1,4 +1,5 @@
 # TSN_JDBC_DERBY_GUI2
+Пример комплексной многооконной программы "Справочник дисков" на Java в NetBeans
 
 ![Screenshot](screenshot1.png)
 
