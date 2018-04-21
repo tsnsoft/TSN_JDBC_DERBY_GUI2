@@ -1,0 +1,15 @@
+Sat Apr 21 16:15:43 ALMT 2018 : Сетевой сервер Apache Derby Network Server - 10.11.1.2 - (1629631) запущен и готов принимать соединения на порту 1527 на {3} 
+----------------------------------------------------------------
+Sat Apr 21 16:15:43 ALMT 2018:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): экземпляр a816c00e-0162-e7b3-cd6b-000075b2936e
+в каталоге базы данных /home/tsn/Development/NetBeansProjects/TSN_JDBC_DERBY_GUI2/MyBase2/disks sun.misc.Launcher$AppClassLoader@4dc63996 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/home/tsn/Development/NetBeansProjects/TSN_JDBC_DERBY_GUI2
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-14-generic
+derby.system.home=/home/tsn/Development/NetBeansProjects/TSN_JDBC_DERBY_GUI2/MyBase2
+Запущен загрузчик классов базы данных - derby.database.classpath=''
+Sat Apr 21 16:16:16 ALMT 2018 : Сетевой сервер Apache Derby - 10.11.1.2 - (1629631) завершение работы в {2}
